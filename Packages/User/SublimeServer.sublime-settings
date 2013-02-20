@@ -1,0 +1,14 @@
+{
+	"attempts": 5,
+	"autorun": false,
+	"interval": 500,
+	"mimetypes":
+	{
+		"": "application/octet-stream",
+		".c": "text/plain",
+		".h": "text/plain",
+		".php": "application/x-php",
+		".py": "text/plain"
+	},
+	"port": 8080
+}

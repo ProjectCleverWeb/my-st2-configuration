@@ -1,0 +1,20 @@
+[
+    {
+        "caption": "Themr: Default", 
+        "args": {
+            "t": "Default.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: Nexus", 
+        "args": {
+            "t": "Nexus.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: Reload themes", 
+        "command": "reload_themes"
+    }
+]
